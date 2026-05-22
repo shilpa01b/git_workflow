@@ -1,0 +1,35 @@
+ cd documents
+ ls
+ git init
+ cd git_workflow
+ git init
+ git branch
+ git status
+ git add eg.py
+ git status
+ git commit -m "first commit"
+ git branch -M main
+ git status
+ git remote add origin https://github.com/shilpa01b/git_workflow.git
+ git push -u origin main
+  
+ git remote -v
+ git push origin main
+ history
+ git status
+ git add .
+ git commit -m "adding gitpractice command"
+ git push origin main
+ github --online
+ git log --online
+ git log --oneline
+ git branches
+ git branch
+ history
+ git branch feature
+ git switch feature
+ git history
+
+#this is new updated document
+
+
