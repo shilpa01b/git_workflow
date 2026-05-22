@@ -11,7 +11,7 @@
  git branch -M main
  git status
  git remote add origin https://github.com/shilpa01b/git_workflow.git
- git push -u origin main
+ git push -u origin master
   
  git remote -v
  git push origin main
@@ -29,7 +29,3 @@
  git branch feature
  git switch feature
  git history
-
-#this is new updated document
-
-
